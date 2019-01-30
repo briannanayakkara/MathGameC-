@@ -1,0 +1,21 @@
+c:\users\kuna\documents\visual studio 2017\Projects\Mathgame\Mathgame\bin\Debug\Mathgame.exe.config
+c:\users\kuna\documents\visual studio 2017\Projects\Mathgame\Mathgame\bin\Debug\Mathgame.exe
+c:\users\kuna\documents\visual studio 2017\Projects\Mathgame\Mathgame\bin\Debug\Mathgame.pdb
+c:\users\kuna\documents\visual studio 2017\Projects\Mathgame\Mathgame\obj\Debug\Mathgame.csprojResolveAssemblyReference.cache
+c:\users\kuna\documents\visual studio 2017\Projects\Mathgame\Mathgame\obj\Debug\Mathgame.Form1.resources
+c:\users\kuna\documents\visual studio 2017\Projects\Mathgame\Mathgame\obj\Debug\Mathgame.Properties.Resources.resources
+c:\users\kuna\documents\visual studio 2017\Projects\Mathgame\Mathgame\obj\Debug\Mathgame.csproj.GenerateResource.Cache
+c:\users\kuna\documents\visual studio 2017\Projects\Mathgame\Mathgame\obj\Debug\Mathgame.exe
+c:\users\kuna\documents\visual studio 2017\Projects\Mathgame\Mathgame\obj\Debug\Mathgame.pdb
+c:\users\kuna\documents\visual studio 2017\Projects\Mathgame\Mathgame\obj\Debug\Mathgame.TheGame.resources
+C:\Users\kuna\OneDrive\Computer Engineering\P1\Mathgame\Mathgame\bin\Debug\Mathgame.exe.config
+C:\Users\kuna\OneDrive\Computer Engineering\P1\Mathgame\Mathgame\bin\Debug\Mathgame.exe
+C:\Users\kuna\OneDrive\Computer Engineering\P1\Mathgame\Mathgame\bin\Debug\Mathgame.pdb
+C:\Users\kuna\OneDrive\Computer Engineering\P1\Mathgame\Mathgame\obj\Debug\Mathgame.csprojAssemblyReference.cache
+C:\Users\kuna\OneDrive\Computer Engineering\P1\Mathgame\Mathgame\obj\Debug\Mathgame.Form1.resources
+C:\Users\kuna\OneDrive\Computer Engineering\P1\Mathgame\Mathgame\obj\Debug\Mathgame.Properties.Resources.resources
+C:\Users\kuna\OneDrive\Computer Engineering\P1\Mathgame\Mathgame\obj\Debug\Mathgame.TheGame.resources
+C:\Users\kuna\OneDrive\Computer Engineering\P1\Mathgame\Mathgame\obj\Debug\Mathgame.csproj.GenerateResource.cache
+C:\Users\kuna\OneDrive\Computer Engineering\P1\Mathgame\Mathgame\obj\Debug\Mathgame.csproj.CoreCompileInputs.cache
+C:\Users\kuna\OneDrive\Computer Engineering\P1\Mathgame\Mathgame\obj\Debug\Mathgame.exe
+C:\Users\kuna\OneDrive\Computer Engineering\P1\Mathgame\Mathgame\obj\Debug\Mathgame.pdb
